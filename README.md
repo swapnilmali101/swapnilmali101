@@ -33,9 +33,3 @@
 <p align="left"> <img src="https://camo.githubusercontent.com/7eccc000415d698d48eef473b501420992374006b3dc28f6a4bbe3e79f2962cc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d707974686f6e2c626173682c6c696e75782c706f7765727368656c6c" /> </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" />
-
-|  <img width="4160" height="2340" alt="aws-devops-techstack" src="https://github.com/user-attachments/assets/fd616477-b160-4429-bf5f-6b7cc8afd3df" />  |
-| - |
-| ☁️ AWS ♾️ DevOps TechStack 🛠️ |
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100" />
