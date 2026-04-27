@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-[my-offerings]: https://github.com/swapnilmali101/my-offerings
-[<img width="958" height="497" alt="how-i-work" src="https://github.com/user-attachments/assets/a96bf7e1-b9e9-449b-b86b-7f4921775ad2" />][my-offerings]
-
+[process]: https://blog.smicx20.in/my-offerings/#process
+[<img width="958" height="497" alt="how-i-work" src="https://github.com/user-attachments/assets/a96bf7e1-b9e9-449b-b86b-7f4921775ad2" />][process]
 
 <!--
 **swapnilmali101/swapnilmali101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
