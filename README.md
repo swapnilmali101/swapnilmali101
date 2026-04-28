@@ -4,6 +4,14 @@
 
 ## my-offerings
 look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offerings/#services)
+---
+
+<div align="center">  
+  
+![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnilmali101&theme=dark)
+
+![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnilmali101&theme=dark)
+</div>
 
 <!--
 **swapnilmali101/swapnilmali101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
