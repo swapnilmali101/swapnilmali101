@@ -12,6 +12,10 @@ look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offe
 
 </div>
 
+[![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+
 <!--
 **swapnilmali101/swapnilmali101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
