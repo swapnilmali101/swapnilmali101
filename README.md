@@ -3,11 +3,7 @@
 ## my-offerings
 - look what kind of services i provide [Link](https://blog.smicx20.in/my-offerings/#services)
 
-- Check out my [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) latest posts here!
-
-<img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" 
-     style="vertical-align: middle; filter: hue-rotate(90deg) brightness(1.2);">
-
+- Check out my latest tech writings here! [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/)
 
 <div align="center">  
     
