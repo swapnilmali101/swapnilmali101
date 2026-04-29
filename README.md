@@ -15,7 +15,7 @@ look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offe
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
 
 <div align="center">
-  <quote>"Automate everything. Document the rest." 🤖</quote>
+  <h6>"Automate everything. Document the rest." 🤖</h6>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
