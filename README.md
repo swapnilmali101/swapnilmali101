@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome+to+my+profile!&fontAlign=50&fontAlignY=40&color=gradient"/>
 
 ## my-offerings
-- look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offerings/#services)
+- look what kind of services i provide [Link](https://blog.smicx20.in/my-offerings/#services)
 
-- Check out my 👉 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) latest posts here!
+- Check out my [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) latest posts here!
 
 <div align="center">  
     
