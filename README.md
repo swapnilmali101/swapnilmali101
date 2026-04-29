@@ -5,7 +5,7 @@
 
 - my technical writings 👉 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
 
----
+<hr>
 
 <div align="center">  
     
