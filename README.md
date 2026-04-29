@@ -14,6 +14,8 @@ look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offe
 
 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
 
+[![HitCount](https://hits.dwyl.com/swapnilmali101/swapnilmali101.svg?style=flat-square)](http://hits.dwyl.com/swapnilmali101/swapnilmali101)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 
 <!--
