@@ -3,6 +3,28 @@
 ## my-offerings
 - look what kind of services i provide 👉 [Link](https://blog.smicx20.in/my-offerings/#services)
 
+<p style="font-size: 20px; line-height: 2;">
+  Check out my 
+  <span style="
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    position: relative;
+    border-radius: 3px;
+    overflow: hidden;
+  ">
+    <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" 
+         style="display: block;">
+    <span style="
+      position: absolute;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: linear-gradient(45deg, rgba(255, 0, 150, 0.4), rgba(0, 204, 255, 0.4));
+      pointer-events: none;
+    "></span>
+  </span>
+  latest posts here!
+</p>
+
 - my technical writings 👉 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
 
 <div align="center">  
