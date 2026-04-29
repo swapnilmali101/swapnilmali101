@@ -5,6 +5,10 @@
 
 - Check out my [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) latest posts here!
 
+<img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white" 
+     style="vertical-align: middle; filter: hue-rotate(90deg) brightness(1.2);">
+
+
 <div align="center">  
     
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnilmali101&theme=dark)
