@@ -8,6 +8,8 @@
 
 - my technical writings 👉 [![Blog](https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=blogger&logoColor=white)](https://swapnilmali101.github.io/) 
 
+---
+
 <div align="center">  
     
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swapnilmali101&theme=dark)
