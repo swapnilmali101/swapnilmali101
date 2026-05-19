@@ -11,4 +11,13 @@
 ![SUM](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swapnilmali101&theme=buefy)
 </div> 
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swapnilmali101&style=for-the-badge&color=yellow&label=PROFILE+VIEWS"/>
+</p>
+
+> ___Keep Learning✍️___
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
