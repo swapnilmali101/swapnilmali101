@@ -15,9 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=swapnilmali101&style=for-the-badge&color=yellow&label=PROFILE+VIEWS"/>
 </p>
 
-> ___Keep On Learning✍️ Keep On Rocking🤘🚀___
-> <img width="1516" height="332" alt="sm101-github-banner" src="https://github.com/user-attachments/assets/b1853970-aaec-44d1-bfe5-f575f633c042" />
-
-
+> ___Keep On Learning✍️ Keep On Rocking🤘🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
