@@ -12,9 +12,10 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapnilmali101&style=for-the-badge&color=yellow&label=PROFILE+VIEWS"/>
+    <img alt="twitter | X"  src="https://img.shields.io/twitter/follow/swapnilmali101?style=social" />
+    <img src="https://komarev.com/ghpvc/?username=swapnilmali101&style=for-the-badge&color=yellow&label=PROFILE+VIEWS"/>
 </p>
 
-> ___Keep On Learning✍️ Keep On Rocking🤘🚀
+> ***Keep On Learning✍️ Keep On Rocking🤘🚀***
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
