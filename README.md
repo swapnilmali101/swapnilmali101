@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-    <img alt="twitter | X"  src="https://img.shields.io/twitter/follow/swapnilmali101?style=social" />
+    <a class="header-badge" target="_blank" href="https://x.com/swapnilmali101"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/swapnilmali101?style=social"></a>
     <img src="https://komarev.com/ghpvc/?username=swapnilmali101&style=for-the-badge&color=yellow&label=PROFILE+VIEWS"/>
 </p>
 
